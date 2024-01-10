@@ -15,7 +15,7 @@ A simple text-sharing website built with Python and Flask, featuring user authen
 
 ## Introduction
 
-Welcome to TextHub, a dynamic text-sharing platform designed to empower users to effortlessly share and discover textual content. Whether you're an avid writer, an enthusiastic reader, or someone who simply loves to exchange thoughts through words, [Your Project Name] provides a seamless and secure environment for your creative expression.
+Welcome to TextHub, a dynamic text-sharing platform designed to empower users to effortlessly share and discover textual content. Whether you're an avid writer, an enthusiastic reader, or someone who simply loves to exchange thoughts through words, TextHub provides a seamless and secure environment for your creative expression.
 
 ## Features
 
