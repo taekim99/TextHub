@@ -7,11 +7,6 @@ A simple text-sharing website built with Python and Flask, featuring user authen
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -28,39 +23,4 @@ Welcome to TextHub, a dynamic text-sharing platform designed to empower users to
 Before you begin, ensure that you have the following prerequisites installed:
 
 - [Python](https://www.python.org/) (version 3.7 or higher)
-- [Git](https://git-scm.com/)
-
-### Python Packages
-
-The project relies on the following Python packages. You can install them using the provided `requirements.txt` file:
-
-## Installation
-
-Provide step-by-step instructions on how to install and set up your project locally. Include any configuration steps needed.
-
-```bash
-# Clone the repository
-git clone https://github.com/taekim99/TextHub.git
-
-# Navigate to the project directory
-cd TextHub
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-
-.
-
-## Configuration
-
-.
-
-## Contributing
-
-.
-
-## Liscense
-
-.
+- [Flask]
